@@ -1,0 +1,9 @@
+numpy<2,>=1
+
+[dev]
+pytest
+tox
+
+[test]
+pytest
+tox

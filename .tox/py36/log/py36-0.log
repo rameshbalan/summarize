@@ -1,0 +1,4 @@
+action: py36, msg: getenv
+cwd: /home/balan/Documents/tacc_rs/day1/python_package/summarize/.tox
+cmd: /home/balan/miniconda3/bin/python -m virtualenv --no-download --python /usr/bin/python3.6 py36
+RuntimeError: failed to query /usr/bin/python3.6 with code 1 err: 'Traceback (most recent call last):\n  File "/home/balan/miniconda3/lib/python3.7/site-packages/virtualenv/discovery/py_info.py", line 16, in <module>\n    from distutils import dist\nImportError: cannot import name \'dist\'\n'

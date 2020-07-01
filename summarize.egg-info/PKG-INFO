@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: summarize
+Version: 0.0.1
+Summary: A simple tool for computing the mean of a random list
+Home-page: https://github.com/rameshbalan/summarize
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6,<4
+Provides-Extra: dev
+Provides-Extra: test
