@@ -2,6 +2,10 @@ LICENSE
 README.md
 pyproject.toml
 setup.py
+tox.ini
+.tox/.package.lock
+.tox/py36/log/.lock
+.tox/py36/log/py36-0.log
 summarize/__init__.py
 summarize.egg-info/PKG-INFO
 summarize.egg-info/SOURCES.txt
@@ -9,3 +13,5 @@ summarize.egg-info/dependency_links.txt
 summarize.egg-info/entry_points.txt
 summarize.egg-info/requires.txt
 summarize.egg-info/top_level.txt
+tests/test_summarize.py
+tests/__pycache__/test_summarize.cpython-37-pytest-5.4.3.pyc
